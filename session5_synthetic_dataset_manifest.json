@@ -1,0 +1,17 @@
+{
+  "created_for": "Session 5 synthetic data, evaluation, security, and observability labs",
+  "seed": 20260825,
+  "record_count": 120,
+  "sha256": "76564bebfedaa693d0e37d209dbac812c31b408e9c18bdd052aed6407e21e333",
+  "address_policy": "Only RFC 5737 TEST-NET IPv4 ranges are used.",
+  "provenance": "Deterministically generated classroom data; not derived from Walmart production incidents.",
+  "scenario_types": [
+    "bgp_neighbor_down",
+    "configuration_drift",
+    "dns_timeout",
+    "interface_flap",
+    "packet_loss_burst",
+    "rare_counter_rollover"
+  ],
+  "execution_authority": "RECOMMEND_ONLY"
+}
